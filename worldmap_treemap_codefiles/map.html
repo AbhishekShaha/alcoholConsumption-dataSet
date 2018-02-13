@@ -1,0 +1,48 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<!-- load D3js -->
+<script src="//d3plus.org/js/d3.js"></script>
+
+<!-- load topojson library -->
+<script src="//d3plus.org/js/topojson.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="//d3plus.org/js/d3plus.js"></script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+
+<script>
+
+// Load the data in csv format
+
+d3.csv("data2.csv", function(error, data1) {
+  if (error) return console.error(error);
+  console.log(data1);
+});
+
+
+// To display if any errors, in a browser
+
+d3.csv("data2.csv", function(error, data1) {
+  if (error) return console.error(error);
+  make_viz(data1);
+});
+
+
+// instantiate d3plus function to make visualization
+
+  function make_viz(data){
+  var visualization = d3plus.viz()
+    .container("#viz")        // container DIV to hold the visualization
+    .data(data)        // data to use with the visualization
+    .coords("http://d3plus.org/topojson/countries.json") // pass topojson coordinates
+    .type("geo_map")          // visualization type
+    .id("country")            // key for which our data is unique on
+    .text("name")             // to display country names
+    .color("country")           // key for coloring countries
+    .tooltip(["Wine - Consumption","Beer - Consumption","Spirits - Consumption","Other - Consumption","Beer_Rank","Wine_Rank","Spirits_Rank","Other_Rank"])         // Array of key(data collumns) place in tooltip
+    .draw()                   // Draws the visualization 
+}
+</script>

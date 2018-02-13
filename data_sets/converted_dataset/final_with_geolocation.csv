@@ -1,0 +1,192 @@
+country,name,Year,Beer,Wine,Spirits,Other
+asafg,Afghanistan,2010,0,0,0,0
+eualb,Albania,2010,31.8,19.8,48.4,0
+afdza,Algeria,2010,62.6,35.5,0,2
+euand,Andorra,2010,34.6,45.3,20.1,0
+afago,Angola,2010,64.3,13.7,17.4,4.7
+naatg,Antigua and Barbuda,2010,36.4,16.4,47,0.3
+saarg,Argentina,2010,40.7,48,5.5,5.8
+asarm,Armenia,2010,9.7,5.3,84.9,0
+ocaus,Australia,2010,44,36.7,12.5,6.8
+euaut,Austria,2010,50.4,35.5,14,0
+asaze,Azerbaijan,2010,28.7,7.6,63.3,0
+nabhs,Bahamas,2010,34,14.6,50.4,1
+asbhr,Bahrain,2010,36.6,6.3,57,0.1
+asbgd,Bangladesh,2010,0,0,0,0
+nabrb,Barbados,2010,39.7,10.2,49.3,0.8
+eublr,Belarus,2010,17.3,5.2,46.6,30.9
+eubel,Belgium,2010,49.2,36.3,14.4,0.1
+nablz,Belize,2010,67.6,2,30.3,0.1
+afben,Benin,2010,54.6,21.7,7.2,16.5
+asbtn,Bhutan,2010,100,0,0,0
+sabol,Bolivia,2010,76.8,3.8,19.3,0.1
+eubih,Bosnia and Herzegovina,2010,29.1,3.2,67.7,0
+afbwa,Botswana,2010,56,11.8,11.5,20.7
+sabra,Brazil,2010,59.6,4,36.3,0.1
+asbrn,Brunei,2010,89.8,2.3,7.2,0.7
+eubgr,Bulgaria,2010,39.3,16.5,44.1,0.1
+afbfa,Burkina Faso,2010,10,3,3.1,83.8
+afbdi,Burundi,2010,24.5,0,0.1,75.4
+afciv,C_te d'Ivoire,2010,16.1,3,0.4,80.5
+afcpv,Cape Verde,2010,63,7.3,25.4,4.3
+askhm,Cambodia,2010,45.7,0.8,53.5,0
+afcmr,Cameroon,2010,44.4,1.2,0.2,54.2
+nacan,Canada,2010,51.2,22,26.8,0
+afcaf,Central African Republic,2010,16.2,0.6,2.1,81.1
+aftcd,Chad,2010,66.3,3.4,3.8,26.5
+sachl,Chile,2010,29.9,40.7,29.4,0
+aschn,China,2010,27.8,3,69.2,0
+sacol,Colombia,2010,66.1,1.1,32.5,0.3
+afcom,Comoros,2010,23.3,22.2,54.6,0
+afcog,Congo,2010,78.4,9.8,10.9,0.8
+occok,Cook Islands,2010,0,22.6,77.4,0
+nacri,Costa Rica,2010,59.3,4.7,35.5,0.5
+euhrv,Croatia,2010,39.5,44.8,15.4,0.2
+nacub,Cuba,2010,38.8,2.2,58.9,0
+eucyp,Cyprus,2010,40.9,24.7,33.7,0.7
+eucze,Czech Republic,2010,53.5,20.5,26,0
+eudnk,Denmark,2010,37.7,48.2,14.1,0
+afdji,Djibouti,2010,23.2,5.3,71.5,0
+nadma,Dominica,2010,13.7,7.1,77.9,1.2
+nadom,Dominican Republic,2010,54.5,2.7,42.7,0.1
+saecu,Ecuador,2010,67.3,1.2,31.5,0
+afegy,Egypt,2010,53.8,5.4,40.3,0.5
+naslv,El Salvador,2010,41.7,1.7,56.6,0
+afgnq,Equatorial Guinea,2010,27.8,72.2,0,0
+aferi,Eritrea,2010,63.6,0,0.1,36.3
+euest,Estonia,2010,41.2,11.1,36.8,10.9
+afeth,Ethiopia,2010,49.7,0.6,8.2,41.4
+ocfji,Fiji,2010,67.7,0.9,31.1,0.2
+eufin,Finland,2010,46,17.5,24,12.6
+eufra,France,2010,18.8,56.4,23.1,1.7
+afgab,Gabon,2010,68.3,11.9,19.8,0.1
+afgmb,Gambia,2010,5.6,0.7,0.3,93.5
+asgeo,Georgia,2010,17,49.8,33.2,0.1
+eudeu,Germany,2010,53.6,27.8,18.6,0
+afgha,Ghana,2010,30,9.7,2.9,57.3
+eugrc,Greece,2010,28.1,47.3,24.2,0.4
+nagrd,Grenada,2010,29.3,4.3,66.2,0.2
+nagtm,Guatemala,2010,41.9,1.6,56.3,0.2
+afgin,Guinea,2010,78.9,16.3,3.7,1.1
+afgnb,Guinea-Bissau,2010,19.6,14.9,22.4,43
+saguy,Guyana,2010,23,0.3,76.6,0.1
+nahti,Haiti,2010,0.2,0.2,99.6,0
+nahnd,Honduras,2010,40.1,1.1,58.7,0
+euhun,Hungary,2010,36.3,29.4,34.3,0
+euisl,Iceland,2010,61.8,21.2,16.5,0.5
+asind,India,2010,6.8,0.1,93.1,0
+asidn,Indonesia,2010,84.5,0.1,15.3,0
+asirq,Iraq,2010,76.1,1,22.9,0
+euirl,Ireland,2010,48.1,26.1,18.7,7.1
+asisr,Israel,2010,44,6.2,49.5,0.3
+euita,Italy,2010,23,65.6,11.5,0
+najam,Jamaica,2010,42,4.9,51.4,1.6
+asjpn,Japan,2010,19.2,4.1,52,24.7
+asjor,Jordan,2010,22.4,2.1,75.4,0.1
+askaz,Kazakhstan,2010,31.8,3.1,65.1,0
+afken,Kenya,2010,56.1,1.8,21.6,20.4
+ockir,Kiribati,2010,36.9,2.2,60.9,0
+askwt,Kuwait,2010,58.1,10.8,30.7,0.4
+askgz,Kyrgyzstan,2010,22.6,4.2,72.9,0.3
+aslao,Laos,2010,35.6,0,64.4,
+eulva,Latvia,2010,46.9,10.7,37,5.4
+aslbn,Lebanon,2010,18.2,29.1,52.4,0.3
+aflso,Lesotho,2010,51.3,0.2,18.9,29.6
+aflbr,Liberia,2010,10.8,1,88.1,0
+aflby,Libya,2010,0,0,0,0
+eultu,Lithuania,2010,46.5,7.8,34.1,11.6
+eulux,Luxembourg,2010,36.2,42.8,21,0
+afmdg,Madagascar,2010,56,9.5,34.5,0
+afmwi,Malawi,2010,9.1,1.2,13.4,76.2
+asmys,Malaysia,2010,76.2,2,21.8,0.1
+asmdv,Maldives,2010,0,0,0,0
+afmli,Mali,2010,13.3,1.5,2.1,83.1
+eumlt,Malta,2010,39.4,32.7,27.2,0.7
+ocmhl,Marshall Islands,2010,0,0,0,0
+afmrt,Mauritania,2010,0,0,0,0
+afmus,Mauritius,2010,66.2,12.3,21.3,0.2
+namex,Mexico,2010,75.7,1.5,22.2,0.5
+ocfsm,Micronesia (Federated States of),2010,47,14.1,38.9,0
+eumco,Monaco,2010,0,0,0,0
+asmng,Mongolia,2010,27.6,2.8,69.6,0
+eumne,Montenegro,2010,10.9,47,41.7,0.4
+afmar,Morocco,2010,43.5,36.5,19.9,0
+afmoz,Mozambique,2010,63,7.3,25.4,4.3
+asmmr,Myanmar,2010,82.6,5.7,11.8,0
+afnam,Namibia,2010,96.7,0.3,0.9,2.1
+ocnru,Nauru,2010,85.4,14.6,0,0
+asnpl,Nepal,2010,47.7,0.9,51.4,0
+eunld,Netherlands,2010,46.8,36.4,16.9,0
+ocnzl,New Zealand,2010,38.2,33.9,15.2,12.5
+nanic,Nicaragua,2010,38.8,0.5,60.6,0
+afner,Niger,2010,46,13.2,40.7,0
+afnga,Nigeria,2010,8,0.4,0.9,90.7
+ocniu,Niue,2010,47,1.7,51.3,0
+eunor,Norway,2010,44.2,34.7,19,2.1
+asomn,Oman,2010,54.6,3.3,42.2,0
+aspak,Pakistan,2010,0,0,0,0
+ocplw,Palau,2010,77.7,5.9,16.4,0
+napan,Panama,2010,69.2,4.6,26,0.2
+ocpng,Papua New Guinea,2010,51.3,0.9,47.7,0
+sapry,Paraguay,2010,51.1,18.2,28.8,2
+saper,Peru,2010,46.8,6.1,47.1,0
+asphl,Philippines,2010,26.9,0.3,72.7,0
+eupol,Poland,2010,55.1,9.3,35.5,0
+euprt,Portugal,2010,30.8,55.5,10.9,2.8
+asqat,Qatar,2010,1.2,13.9,84.6,0.3
+askor,South Korea,2010,25,1.6,3,70.5
+eumda,Moldova,2010,30.4,5.1,64.5,0
+eurou,Romania,2010,50,28.9,21.1,0
+asrus,Russia,2010,37.6,11.4,51,0
+afrwa,Rwanda,2010,11.1,0,0.4,88.4
+nakna,Saint Kitts and Nevis,2010,44,7.4,48,0.6
+nalca,Saint Lucia,2010,29.7,12.6,56.1,1.5
+navct,Saint Vincent and the Grenadines,2010,33.4,3,63.1,0.5
+ocwsm,Samoa,2010,70.9,16.6,12.5,0
+eusmr,San Marino,2010,0,0,0,0
+afstp,Sao Tome and Principe,2010,23.5,60.2,16.3,0
+assau,Saudi Arabia,2010,0,1.9,97.9,0.2
+afsen,Senegal,2010,55.1,41.3,3.6,0
+eusrb,Serbia,2010,51.5,23.9,24.6,0
+afsyc,Seychelles,2010,67,22.2,10.8,0
+afsle,Sierra Leone,2010,6.4,0.5,0.7,92.3
+assgp,Singapore,2010,70.1,13.5,14.7,1.7
+eusvk,Slovakia,2010,30.1,18.3,46.2,5.5
+eusvn,Slovenia,2010,44.5,46.9,8.6,0
+ocslb,Solomon Islands,2010,81.1,2.1,16.7,0
+afsom,Somalia,2010,0,,,
+afzaf,South Africa,2010,48.1,17.8,16.7,17.4
+euesp,Spain,2010,49.7,20.1,28.2,1.8
+aslka,Sri Lanka,2010,13,0.1,85.2,1.7
+afsdn,Sudan,2010,8,0,13.5,78.5
+sasur,Suriname,2010,40,2.3,57.2,0.5
+afswz,Swaziland,2010,33.6,0.8,0.7,65
+euswe,Sweden,2010,37,46.6,15.1,1.4
+euche,Switzerland,2010,31.8,49.4,17.6,1.2
+assyr,Syria,2010,8.5,27.9,63.5,0
+astjk,Tajikistan,2010,10.2,1.1,88.7,0
+astha,Thailand,2010,27,0.4,72.6,0
+eumkd,Macedonia [FYROM],2010,47.4,39.9,12.6,0
+octls,Timor-Leste,2010,9.3,75.9,14.8,0
+aftgo,Togo,2010,48.9,26.9,2.4,21.8
+octon,Tonga,2010,57.9,7.6,34.3,0.1
+natto,Trinidad and Tobago,2010,54,2,43.8,0.3
+aftun,Tunisia,2010,68.6,27.7,3.7,0
+astur,Turkey,2010,63.6,8.6,27.9,0
+astkm,Turkmenistan,2010,15.4,26.1,58.4,0
+octuv,Tuvalu,2010,10,15.5,74.5,0
+afuga,Uganda,2010,9.4,0.1,1.9,88.6
+euukr,Ukraine,2010,40.5,9,48,2.6
+asare,United Arab Emirates,2010,10.3,2.9,86.7,0
+eugbr,United Kingdom,2010,36.9,33.8,21.8,7.5
+aftza,Tanzania,2010,11,0.2,1.8,87
+nausa,United States,2010,50,17.3,32.7,0
+saury,Uruguay,2010,30.6,59.9,9.5,0
+asuzb,Uzbekistan,2010,18.3,6.3,75.4,0
+ocvut,Vanuatu,2010,40.5,22.8,36.7,0
+saven,Venezuela,2010,75.6,0.8,23.4,0.2
+asvnm,Vietnam,2010,97.3,0.6,2.1,0
+asyem,Yemen,2010,100,0,0,0
+afzmb,Zambia,2010,22.7,2.9,13.6,60.7
+afzwe,Zimbabwe,2010,23.7,1.7,6.8,67.7
+nagrl,Greenland,2010,0,0,0,0
